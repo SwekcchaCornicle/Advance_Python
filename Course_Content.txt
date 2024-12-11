@@ -10,5 +10,6 @@ Course content order:
 9.serial+deserial.py
 10.read_user_data.py
 11.update_user_data.py
+12.delete_user_data.py
 
 
