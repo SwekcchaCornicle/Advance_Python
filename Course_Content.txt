@@ -1,0 +1,12 @@
+Course content order:
+1.demo.py
+2.reading_line.py
+3.write_file.py
+4.strip.py
+5.saving_user_data.py
+6.saving_complex.py
+7.serialization.py
+8.deserialization.py
+9.serial+deserial.py
+
+

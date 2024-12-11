@@ -1,0 +1,9 @@
+Hi Intro to file handling with python
+This file created for reading data from pythonNew content added to the file using append mode
+New content added to the file using append mode
+New content added to the file using append modeRiya
+Swekccha
+Rohan
+Name: swekccha
+Email: swekccha@gmail.com
+ Contact: 99406572
