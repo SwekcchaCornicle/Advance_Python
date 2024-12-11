@@ -8,5 +8,7 @@ Course content order:
 7.serialization.py
 8.deserialization.py
 9.serial+deserial.py
+10.read_user_data.py
+11.update_user_data.py
 
 

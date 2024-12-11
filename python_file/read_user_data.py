@@ -30,4 +30,15 @@ def save_user_data():
     print("User data save successfully")
 
 
+def read_user_data():
+    if not os.path.exists('../txt_file/serial+deserial.json'):
+        print("No user data found")
+        return
+    with open('../txt_file/serial+deserial.json', 'r') as file:
+        user_data = json.load(file)
+        for data in user_data:
+            print("Name:", data['name'])
+
+
 save_user_data()
+read_user_data()
